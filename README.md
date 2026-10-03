@@ -71,6 +71,8 @@ Tuan, P. H., et al. (2015). *Exploring the resonant vibration of thin plates: Re
 ## Author
 
 **Ali Bolourian**
+
 Ferdowsi University of Mashhad
+
 Numerical Methods — Spring 2025
 **Class Mini-Project**
